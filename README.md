@@ -48,7 +48,7 @@ This project presents an **interactive Tableau dashboard** that visualizes compr
 
 ---
 ## Dashboard
-![Dashboard Preview]()
+![Dashboard Preview](https://github.com/devank99/-Journalist-Killed-Dashboard-Data-Analysis-Using-Tableau/blob/main/Journalist%20%20Reports%20%20Dashboard.png)
 
 
 ## 🔍 Key Insights
