@@ -47,6 +47,9 @@ This project presents an **interactive Tableau dashboard** that visualizes compr
 - ⚠️ **Top Causes of Death**: War, Politics, Crime, Corruption
 
 ---
+## Dashboard
+![Dashboard Preview]()
+
 
 ## 🔍 Key Insights
 
