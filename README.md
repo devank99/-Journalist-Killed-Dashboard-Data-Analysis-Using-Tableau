@@ -32,13 +32,7 @@ This project presents an **interactive Tableau dashboard** that visualizes compr
 - **Horizontal Bar Chart** – Nationality of Journalists
 - **Treemap** – The Journalists' Jobs (e.g. Reporter, Cameraperson, Editor)
 
-### 🔹 Filters:
 
-- Region / Continent
-- Year / Time Period
-- Media Type
-- Coverage Topic
-- Nationality
 
 ### 🔹 KPI Cards:
 
