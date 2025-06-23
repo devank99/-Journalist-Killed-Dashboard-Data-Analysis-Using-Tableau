@@ -1,113 +1,79 @@
-# -Journalist-Killed-Dashboard-Data-Analysis-Using-Tableau
-📰 Journalist Killed Dashboard – Data Analysis Using Tableau
-📌 ABOUT PROJECT:
-Built an interactive Tableau dashboard that visualizes global data on journalist killings.
+# 📰 Journalist Killed Dashboard – Data Analysis Using Tableau
 
-Collected and processed data from press freedom organizations and human rights groups.
+## 📌 Project Overview
 
-Dashboard highlights patterns in journalist deaths by country, profession, motive, and other key variables.
+This project presents an **interactive Tableau dashboard** that visualizes comprehensive data on journalist killings across the globe. The dashboard is built to support awareness, advocacy, and data-driven analysis regarding the threats and violence journalists face. Data is sourced from **press freedom organizations** and **human rights groups**, and includes insights into countries, causes of death, media types, and journalist professions.
 
-Enables filterable, visual exploration to support advocacy for press freedom and journalist protection.
+---
 
-🛠️ TECHNOLOGIES USED:
-Microsoft Excel – Data cleaning and preparation
+## 🛠️ Technologies Used
 
-Tableau – Visualization and dashboard development
+- **Microsoft Excel** – Data cleaning, formatting, and preparation
+- **Tableau** – Data visualization and interactive dashboard creation
 
-📍 STEPS FOLLOWED:
-Data Collection: Pulled from credible global freedom-of-press datasets.
+---
 
-Data Cleaning: Processed missing values, standardized country names, formatted dates.
+## 📍 Project Steps
 
-Data Transformation: Converted categorical variables and grouped causes of death.
+1. **Data Collection** – Sourced from global journalism watchdog organizations.
+2. **Data Cleaning** – Cleaned and preprocessed in Excel (date formats, missing values, categories).
+3. **Data Transformation** – Grouped causes, normalized text fields, created derived metrics.
+4. **Data Visualization** – Built using Tableau with filters, KPIs, interactive charts, and tooltips.
 
-Visualization in Tableau: Designed a highly interactive, informative dashboard.
+---
 
-📈 DATA VISUALIZATION:
-Horizontal Bar Graph –
-Top 5 Coverage Topics and Causes of Death (e.g. War, Politics, Crime, Corruption)
+## 📊 Dashboard Visualizations
 
-Line Chart –
-Total Number of Journalists Killed Over Time, showing trends year-by-year.
+### 🔹 Dashboard Contains:
 
-World Map Visualization –
-Journalist Deaths by Country, with country-level color intensity based on fatality count.
+- **Horizontal Bar Chart** – Top 5 Coverage Topics and Causes of Death (e.g. War, Politics, Crime)
+- **Line Chart** – Total Number of Journalists Killed Over Time
+- **World Map** – Journalists Killed by Country
+- **Horizontal Bar Chart** – Nationality of Journalists
+- **Treemap** – The Journalists' Jobs (e.g. Reporter, Cameraperson, Editor)
 
-Horizontal Bar Graph –
-Nationality of Journalists Killed, highlighting top affected nations (e.g. Iraq, Syria, Mexico).
+### 🔹 Filters:
 
-Treemap –
-Breakdown of Journalist Job Roles (e.g. Reporter, Cameraperson, Editor) and their relative risk.
+- Region / Continent
+- Year / Time Period
+- Media Type
+- Coverage Topic
+- Nationality
 
-📍 DASHBOARD CONTAINS:
-📊 5 Key Visual Elements:
+### 🔹 KPI Cards:
 
-Top 5 Causes & Coverage Areas – Horizontal Bar Chart
+- 🧮 **Total Deaths**: 1,897
+- 🌍 **Top Countries**: Iraq, Syria, Mexico
+- ⚠️ **Top Causes of Death**: War, Politics, Crime, Corruption
 
-Trend of Deaths Over Years – Line Chart
+---
 
-Country-Level Deaths – Interactive World Map
+## 🔍 Key Insights
 
-Nationality Breakdown – Horizontal Bar Chart
+- **Nationality Impact**: Iraq, Syria, and Mexico have the highest journalist fatality counts.
+- **Job Roles at Risk**: Reporters and cameramen are the most affected.
+- **Coverage Dangers**: Topics like War, Politics, and Corruption are high-risk areas for journalists.
+- **Timeline Trends**: Peaks in killings correlate with conflict periods and political crackdowns.
+- **Global Hotspots**: Middle East and Latin America are major danger zones.
 
-Job Roles Breakdown – Treemap
+---
 
-🔍 Filters: Region, Year, Media Type, Coverage Topic, Nationality
+## ✅ Recommendations
 
-🎯 KPI Cards:
+- **Journalist Protection Protocols**: Provide safety training for field journalists.
+- **Accountability Enforcement**: Promote legal reforms to investigate and prosecute journalist killings.
+- **Support High-Risk Coverage**: Offer safety tools and risk assessments for those covering war/politics.
+- **Geo-Focused Advocacy**: Push policy interventions in countries with the highest reported fatalities.
 
-Total Deaths: 1,897
+---
 
-Top Countries: Iraq, Syria, Mexico
+## 📈 Use Cases
 
-Most Common Causes: War, Politics, Crime, Corruption
+- 🗞️ **Media Organizations** – Assess and mitigate journalist deployment risks.
+- 🧭 **NGOs & Watchdogs** – Fuel campaigns for justice, press freedom, and law reform.
+- 🧠 **Academics & Analysts** – Explore the relationship between journalist deaths and global conflicts.
+- 🧑‍⚖️ **Policymakers** – Leverage insights to create protective measures for media professionals.
 
-📍 KEY FINDINGS:
-Journalist Nationality Risk:
+---
 
-Highest death tolls among journalists from Iraq, Syria, and Mexico.
-
-Primary Causes of Death:
-
-Journalists are primarily killed due to involvement in:
-
-War reporting
-
-Political exposure
-
-Crime or corruption investigations
-
-Coverage Focus:
-
-Topics like War and Politics present the highest fatality risk.
-
-Job Roles Most Affected:
-
-Reporters and cameramen are most frequently targeted.
-
-Time Trend:
-
-Certain years see major spikes corresponding to major conflicts or crackdowns.
-
-📍 SUGGESTIONS & RECOMMENDATIONS:
-✅ Strengthen Journalist Safety Measures:
-Invest in safety training and protective protocols, especially in high-risk zones.
-
-✅ Push for Accountability:
-Encourage independent investigations and public reporting of journalist killings.
-
-✅ Focus on High-Risk Topics:
-Provide additional support to journalists covering war, politics, and crime.
-
-✅ Geographic Targeting for Policy Action:
-Focus global advocacy efforts in countries with the highest fatality rates.
-
-📍 USE CASES:
-NGOs & Watchdogs: Use dashboard insights to campaign for justice and protection laws.
-
-Media Outlets: Assess risks before assigning correspondents to sensitive regions.
-
-Policy Advocates: Leverage data for international reports and interventions.
-
-Academia: Analyze links between freedom of press and political violence.
 
